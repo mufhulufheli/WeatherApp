@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "weather-app-react-native",
-    "slug": "weather-app-react-native",
+    "name": "weather-app-react-native-BySbilo",
+    "slug": "weather-app-react-native-bysbilo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
